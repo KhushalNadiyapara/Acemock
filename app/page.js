@@ -28,7 +28,7 @@ const LandingPage = () => {
         {/* Right Side - Spline 3D Model */}
         <div className="md:w-1/2 flex justify-center items-center">
           <div className="w-full max-w-[600px] h-[500px] flex justify-center items-center">
-            <Spline scene="https://prod.spline.design/F4byYFMncLHPRSt2/scene.splinecode" />
+          <Spline scene="https://prod.spline.design/2HNnWZeEu7QY5R6X/scene.splinecode" />
           </div>
         </div>
 
