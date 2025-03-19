@@ -14,7 +14,7 @@ const Header = () => {
   return (
     <div className="flex items-center justify-between bg-secondary shadow-md rounded-full px-6 py-3 max-w-6xl mx-auto mt-4">
       {/* Logo on the Left */}
-      <Image src="/logo.svg" width={140} height={80} alt="logo" />
+      <Image src="/Logo.png" width={140} height={80} alt="logo" />
 
       {/* Navigation Centered */}
       <ul className="hidden md:flex gap-8">
