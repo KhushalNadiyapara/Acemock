@@ -6,7 +6,7 @@ const LandingPage = () => {
   const router = useRouter();
 
   return (
-    <div className="h-screen w-screen flex items-center justify-center bg-blue-100 overflow-hidden">
+    <div className="h-screen w-screen flex items-center justify-center bg-orange-100 overflow-hidden">
       <div className="container mx-auto flex flex-col md:flex-row items-center text-center md:text-left px-6 md:px-12">
 
         {/* Left Side - Text and Button */}
